@@ -65,7 +65,7 @@
     Notice that overridden target depends on jar target and not only on 
     compile target as regular run target does. Again, for list of available 
     properties which you can use check the target you are overriding in 
-    nbproject/build-impl.xml file. 
+    nbproject/build-impl.xml file
 
     -->
 </project>
